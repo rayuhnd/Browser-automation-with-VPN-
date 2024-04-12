@@ -3,7 +3,7 @@
 """from selenium import webdriver
 
 browser = webdriver.Firefox()
-url = 'https://sveriges-storsta.miljonlotteriet.se/competition/sveriges-storsta-kattfantast?nominee=660aa39bef8504bffa7c0ec2'
+url = 'Hemsida'
 
 browser.get(url)
 
@@ -24,7 +24,7 @@ exit()
 from selenium import webdriver
 
 browser = webdriver.Firefox()
-url = 'https://sveriges-storsta.miljonlotteriet.se/competition/sveriges-storsta-kattfantast?nominee=660aa39bef8504bffa7c0ec2'
+url = 'Hemsida'
 
 browser.get(url)
 
@@ -62,7 +62,7 @@ for _ in range(num_iterations):
     driver = webdriver.Firefox()
 
     # URL of the website to visit
-    url = 'https://sveriges-storsta.miljonlotteriet.se/competition/sveriges-storsta-kattfantast?nominee=660aa39bef8504bffa7c0ec2'
+    url = 'hemsida'
 
     # Open the website
     driver.get(url)
